@@ -22,7 +22,7 @@ but is planned to. Do not hesitate to send me any ideas or bug informations.
 
 ```
 gem install specific_install
-gem specific_install michaelvillar/airstream
+gem specific_install https://github.com/michaelvillar/airstream.git
 brew install youtube-dl
 ```
 
